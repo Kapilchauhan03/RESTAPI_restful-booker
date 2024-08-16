@@ -32,7 +32,7 @@ The complete API documentation can be found here https://restful-booker.herokuap
    https://api.postman.com/collections/19150477-048b28b6-e071-44dd-957f-721bd698a2a7?access_key=PMAT-01J5D0C86S08JE89C29FWDXHET
    
 2. TC's Excution report Using Postman & extracting the report via **newman**
-    Report link : file:///C:/Users/kapil/Documents/postman/newman/Restfulbooker%20Project-2024-08-16-07-23-42-363-0.html
+    
        ![image](https://github.com/user-attachments/assets/c7fd6a6b-0f48-459d-82ca-d707376df431)
 
 Contribution
